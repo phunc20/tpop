@@ -1,0 +1,2 @@
+- This book was typeset (**`grap|pic|tbl|eqn|troff -mpm`**) in Times and Lucida Sans Typewriter by the authors.
+  - `grap, pic, tbl, eqn, troff` are commands that do exist on my Parabola Linux distro! (Except for `grap` which I cannot seem to find out)
